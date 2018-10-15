@@ -2,9 +2,9 @@ package project15;
 
 import java.io.Serializable;
 
-public class Person implements Serializable{//允许对象序列化
+public class Person implements Serializable{
+	//允许对象序列化
 	
-	public static final long 
 	private String name;
 	private int age;
 	
